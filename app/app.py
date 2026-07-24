@@ -58,7 +58,7 @@ def echo():
 # real to catch on the first run. Delete this line once you've taken
 # your screenshot for the portfolio/interview — it does not connect
 # to anything real.
-DEMO_API_KEY = "sk-live-DEMO0000000000000000000000FAKE"
+
 
 
 if __name__ == "__main__":
